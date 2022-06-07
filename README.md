@@ -14,7 +14,7 @@ Create a production ready version of this UI mockup: https://www.figma.com/file/
 Follow these guidelines:
 
 1. Create a project locally with either static html, css, js files or use the javascript framework of your choice.
-2. Format the ahlete data as json so it can be injested to generate html content.
+2. Format the athlete data as json so it can be injested to generate html content.
 3. Use either Sass or Less as css pre-processor. Create Mixins for the button and input styles.
 4. You can use an external css library (example Tailwind) but only for grid and spacing.
 5. Add functionality to the "Sort By" input so the cards can be sorted by Oldest and Newest.
