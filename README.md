@@ -10,13 +10,13 @@ The goal of this assignment is to:
 
 ### Instructions
 
-Create a production ready version of this UI mockup: https://www.figma.com/file/kIuMI4fBxEUIfrylsnV50o/Athlete-Studio---Frontend-Developer-Assignment?node-id=0%3A1
+Create a production ready version of [this UI mockup](https://www.figma.com/file/kIuMI4fBxEUIfrylsnV50o/Athlete-Studio---Frontend-Developer-Assignment?node-id=0%3A1)
 
-Follow these guidelines:
+**Follow these guidelines:**
 
 1. Create a project locally with either:
-  - static html, css and js
-  - or the javascript framework of your choice (i.e. React, Vue)
+    * static html, css and js
+    * or the javascript framework of your choice (i.e. React, Vue)
 
 2. Use the provided `athlete.json` file, containing the 16 athletes' data to populate each card.
 
