@@ -5,6 +5,7 @@
 The goal of this assignment is to:
 
 1. Assess your ability to create pixel-perfect frontend UI experience from a Figma mockup
+
 2. Evaluate the quality and efficiency of your frontend code
 
 ### Instructions
@@ -13,13 +14,21 @@ Create a production ready version of this UI mockup: https://www.figma.com/file/
 
 Follow these guidelines:
 
-1. Create a project locally with either static html, css, js files or use the javascript framework of your choice.
-2. Format the athlete data as json so it can be injested to generate html content.
-3. Use either Sass or Less as css pre-processor. Create Mixins for the button and input styles.
-4. You can use an external css library (example Tailwind) but only for grid and spacing.
-5. Add functionality to the "Sort By" input so the cards can be sorted by Oldest and Newest.
+1. Create a project locally with either:
+  - static html, css and js
+  - or the javascript framework of your choice (i.e. React, Vue)
+
+2. Use the provided `athlete.json` file, containing the 16 athletes' data to populate each card.
+
+3. Use either SASS or LESS as your css pre-processor. You can use an external css library (for example, Tailwind) but only for grid and spacing.
+
+4. Create Mixins for the `<button>` and `<input>` styles.
+
+5. Add sorting functionality to the "Sort By" input so the cards can be sorted by Oldest and Newest. Use the `drop_date` field to order the JSON by date.
+
 6. Only show the first 12 athlete cards by default. Display the remaining 4 when the "Load More Athletes" button is clicked.
-7. Make the UI mobile responsie by collapsing into rows of 2 on mobile screens.
+
+7. Make the UI responsive on mobile screens (< 400px wide) by collapsing into rows of 2 at the mobile breakpoint.
 
 ### Closing
 
