@@ -15,10 +15,11 @@ Follow these guidelines:
 
 1. Create a project locally with either static html, css, js files or use the javascript framework of your choice.
 2. Format the ahlete data as json so it can be injested to generate html content.
-3. Use either Sass or Less as css pre-processor. Create a Mixin for the individal Athlete Card style.
-4. Add functionality to the "Sort By" input so the cards can be sorted by Oldest and Newest.
-5. Only show the first 12 athlete cards by default. Display the remaining 4 when the "Load More Athletes" button is clicked.
-6. Make the UI mobile responsie by collapsing into rows of 2 on mobile screens.
+3. Use either Sass or Less as css pre-processor. Create Mixins for the button and input styles.
+4. You can use an external css library (example Tailwind) but only for grid and spacing.
+5. Add functionality to the "Sort By" input so the cards can be sorted by Oldest and Newest.
+6. Only show the first 12 athlete cards by default. Display the remaining 4 when the "Load More Athletes" button is clicked.
+7. Make the UI mobile responsie by collapsing into rows of 2 on mobile screens.
 
 ### Closing
 
